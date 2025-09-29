@@ -98,7 +98,7 @@ class FileOrganizer:
         self.file_types[category_name] = extensions
         print(
             f"✅ Created category '{category_name}' with extensions: {extensions}")
-
+# Made by gao le
 
 def main():
     parser = argparse.ArgumentParser(
